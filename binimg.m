@@ -1,4 +1,4 @@
-I=imread("Baboon.png");
+I=imread("Baboon.png"); # enter the name of image file
 
 [h w] = size(I);
 
@@ -18,3 +18,5 @@ for i=1:h
 endfor
 
 imshow(A);
+
+imwrite(A,"ImageBinary.png");  # output as a binary image
