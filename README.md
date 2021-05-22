@@ -1,2 +1,2 @@
 # Image-Manipulation-octo-pancake
-Contains a varity of image manipulation methodd
+Contains a various ways of image manipulation method
